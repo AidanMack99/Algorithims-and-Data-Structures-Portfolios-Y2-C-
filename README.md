@@ -1,4 +1,4 @@
-# Algorithims-and-Data-Structures-Portfolios-Y2-C-
+# Algorithims-and-Data-Structures-Portfolios-Y2-C#
 Second year portfolio tasks solving a variety of Data and Sorting problems using C#
 
 
