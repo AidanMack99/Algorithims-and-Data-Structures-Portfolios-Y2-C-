@@ -1,0 +1,7 @@
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\bin\Debug\Lab9_BinaryTree.exe.config
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\bin\Debug\Lab9_BinaryTree.exe
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\bin\Debug\Lab9_BinaryTree.pdb
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\obj\Debug\Lab9_BinaryTree.csprojAssemblyReference.cache
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\obj\Debug\Lab9_BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\obj\Debug\Lab9_BinaryTree.exe
+C:\Users\Aidan\source\repos\Lab9_BinaryTree\Lab9_BinaryTree\obj\Debug\Lab9_BinaryTree.pdb
