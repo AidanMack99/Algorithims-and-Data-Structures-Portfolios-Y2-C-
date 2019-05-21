@@ -1,0 +1,14 @@
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.exe.config
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.exe
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.pdb
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.exe
+C:\Users\aidan\source\repos\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.pdb
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.exe.config
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.exe
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\bin\Debug\Lab6_Libary.pdb
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.csprojAssemblyReference.cache
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.exe
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab6_Libary\Lab6_Libary\obj\Debug\Lab6_Libary.pdb
