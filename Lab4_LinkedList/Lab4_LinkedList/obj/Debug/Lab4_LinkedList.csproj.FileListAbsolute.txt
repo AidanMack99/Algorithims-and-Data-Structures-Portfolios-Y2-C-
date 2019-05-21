@@ -1,0 +1,14 @@
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojAssemblyReference.cache
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csproj.CoreCompileInputs.cache
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+c:\users\aidan\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojAssemblyReference.cache
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+C:\Users\Aidan\Documents\Algorithims and Data Structures\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
