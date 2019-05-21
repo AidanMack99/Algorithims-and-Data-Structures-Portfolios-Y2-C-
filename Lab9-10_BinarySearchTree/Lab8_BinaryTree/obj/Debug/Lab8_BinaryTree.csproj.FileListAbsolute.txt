@@ -1,0 +1,7 @@
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojAssemblyReference.cache
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\Aidan\source\repos\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
